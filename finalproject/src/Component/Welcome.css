@@ -1,0 +1,13 @@
+.mainbg{
+    /* background-image: url("../Assets/welbg.jpg");
+  background-size: cover; */
+    height: 100vh;
+    width: 100vw;
+    filter : brightness(100%);
+    background: linear-gradient(-45deg, #f279ff, #85ddff, #e147f2, #4cc8f9, #f278ff, #40c9ff, #e81cff);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    position: absolute;
+    top: 0px;
+    
+}
